@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Ekaterina Velikaya One";
+  src: url("/fonts/EkaterinaVelikayaOne.woff2") format("woff2"),
+    url("/fonts/EkaterinaVelikayaOne.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kuhlenbach";
+  src: url("/fonts/Kuhlenbach.woff2") format("woff2"),
+    url("/fonts/Kuhlenbach.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PetrovskyOneC";
+  src: url("/fonts/PetrovskyOneC.woff2") format("woff2"),
+    url("/fonts/PetrovskyOneC.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
